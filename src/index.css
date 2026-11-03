@@ -1,0 +1,35 @@
+@import "tailwindcss";
+
+@theme {
+  --color-forest: #102D23;
+  --color-primary-green: #174B35;
+  --color-sage: #B7D7A8;
+  --color-cream: #F5F3EA;
+  --color-gold: #D5A84B;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: #F5F3EA;
+  color: #102D23;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+button,
+a {
+  cursor: pointer;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
