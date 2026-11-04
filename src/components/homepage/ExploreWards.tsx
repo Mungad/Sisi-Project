@@ -18,7 +18,7 @@ const subCounties = [
 
 function ExploreWards() {
   return (
-    <section className="overflow-hidden bg-[#E9EDE3] px-6 py-24 lg:px-12 lg:py-32">
+    <section className="overflow-hidden bg-[#E9EDE3] px-6 py-18 lg:px-12 lg:py-26">
       <div className="mx-auto max-w-[1400px]">
 
         <div className="grid gap-12 lg:grid-cols-2 lg:items-center">

@@ -37,11 +37,11 @@ function Home() {
           </div>
 
           <h1 className="max-w-5xl text-6xl font-extrabold leading-[1.05] tracking-tight text-white sm:text-7xl lg:text-8xl xl:text-9xl">
-            OUR COUNTY.
+            BE HEARD.
             <br />
-            <span className="text-sage">OUR VOICE.</span>
+            <span className="text-sage">BE INVOLVED.</span>
             <br />
-            OUR FUTURE.
+            MAKE A DIFFERENCE.
           </h1>
 
           <p className="mt-8 max-w-2xl text-lg leading-8 text-white/80 md:text-xl">

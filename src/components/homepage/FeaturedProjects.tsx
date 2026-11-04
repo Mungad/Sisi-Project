@@ -42,7 +42,7 @@ const sectors = [
 
 function FeaturedProjects() {
   return (
-    <section className="bg-cream px-6 py-32 lg:px-12 lg:py-40">
+    <section className="bg-cream px-6 py-24 lg:px-12 lg:py-32">
       <div className="mx-auto max-w-[1400px]">
 
         {/* Heading */}

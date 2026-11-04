@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 function ParticipationSection() {
   return (
-    <section className="bg-forest px-6 py-32 text-white lg:px-12 lg:py-40">
+    <section className="bg-forest px-6 py-24 text-white lg:px-12 lg:py-32">
       <div className="mx-auto grid max-w-[1400px] gap-14 lg:grid-cols-2 lg:items-center">
 
         {/* Left Content */}
